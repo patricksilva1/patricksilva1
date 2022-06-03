@@ -11,4 +11,5 @@
 </p>
 
 ---
-A guy with a deep interest in technology and how it can benefit us in our lives.
+Ex-member of CFN (Brazilian Marine Corps) acted with
+software development and network security. A guy with a deep interest in technology and how it can benefit us in our lives.
