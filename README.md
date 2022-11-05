@@ -5,7 +5,7 @@
 </p>
 I'm 24, a software engineer from Brazil.
 
-Ex-member of CFN (Brazilian Marine Corps) acted with
+Ex-member of **CFN (Brazilian Marine Corps)** acted with
 software development and network security. A guy with a deep interest in technology and how it can benefit us in our lives.
 
  <h3 align="left">Languages and Tools:</h3>
