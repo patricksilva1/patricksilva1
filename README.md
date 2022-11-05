@@ -4,7 +4,7 @@
   <img src="https://github.com/lccro/lccro/blob/master/source.gif?raw=true">
   <br>
   •
-  <a href="https://www.instagram.com/patrick.silvabr/">Instagram</a> •
+  <a href="https://www.instagram.com/patricksilva.me/">Instagram</a> •
   <a href="https://www.linkedin.com/in/patrick-silva-985696191/">LinkedIn</a> •
   <a href="https://twitter.com/patricksilvaa98">Twitter</a>
   •
