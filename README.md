@@ -1,4 +1,4 @@
-<h1 align="center">Hey 👋, I'm Patrick </h1> <h2 align="center">and I build things for the world🌎</h2>
+<h1 align="center">Hey 👋, I'm Patrick </h1> <h2 align="center">and I build things for the world.🌎</h2>
 
  <h3 align="left">About me:</h3>
 <p align="left">
