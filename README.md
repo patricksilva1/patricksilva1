@@ -3,7 +3,7 @@
  <h3 align="left">About me:</h3>
 <p align="left">
 </p>
-I'm 24, a Software Engineer from Brazil.
+I'm 24, a Software Engineer from Brazil. I speak English, Portuguese and a little Spanish. (I'm training French rn)
 
 Ex-member of **CFN (Brazilian Marine Corps)** acted with
 Software Development and Network Security. A guy with a deep interest in technology and how it can benefit us in our lives.
