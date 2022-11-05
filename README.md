@@ -3,10 +3,10 @@
  <h3 align="left">About me:</h3>
 <p align="left">
 </p>
-I'm 24, a software engineer from Brazil.
+I'm 24, a Software Engineer from Brazil.
 
 Ex-member of **CFN (Brazilian Marine Corps)** acted with
-software development and network security. A guy with a deep interest in technology and how it can benefit us in our lives.
+Software Development and Network Security. A guy with a deep interest in technology and how it can benefit us in our lives.
 
  <h3 align="left">Languages and Tools:</h3>
 
@@ -15,20 +15,20 @@ software development and network security. A guy with a deep interest in technol
 ---
 
 <h4 align="center"></h4>
-<p align="center">
+<p align="center" <h4 align="left">Talk to me:</h4> 
   
   <br>
   •
   <a href="https://www.instagram.com/patricksilva.me/">Instagram</a> •
-  <a href="https://www.linkedin.com/in/patrick-silva-985696191/">LinkedIn</a> •
+  <a href="https://www.linkedin.com/in/patrick-loureiro-da-silva-985696191">LinkedIn</a> •
+  <a href="https://wa.me/+5521968160589"> WhatsApp</a> •
+  <a href="https://t.me/patricksilva10">Telegram</a> •
   <a href="https://twitter.com/patricksilvaa98">Twitter</a>
   •
+  <a href="mailto:patricksilva5160@gmail.com">patricksilva5160@gmail.com</a>
+  •
+
 </p>
-
-<h4 align="left">Talk to me:</h4> 
-
-• **patricksilva5160@gmail.com**, <a href="https://wa.me/+5521968160589"> WhatsApp</a>, <a href="https://t.me/patricksilva10">Telegram</a> or my <a href="https://www.linkedin.com/in/patrick-silva-985696191/">LinkedIn</a>. •
-
 
 ---
 
