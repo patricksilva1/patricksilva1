@@ -27,7 +27,7 @@ software development and network security. A guy with a deep interest in technol
 
 <h4 align="left">Talk to me:</h4> 
 
-• **patricksilva5160@gmail.com** or <a href="https://t.me/patricksilva10">Telegram</a> or my <a href="https://www.linkedin.com/in/patrick-silva-985696191/">LinkedIn</a>. •
+• **patricksilva5160@gmail.com** or <a href="https://wa.me/+5521968160589"> WhatsApp</a> or <a href="https://t.me/patricksilva10">Telegram</a> or my <a href="https://www.linkedin.com/in/patrick-silva-985696191/">LinkedIn</a>. •
 
 
 ---
