@@ -16,7 +16,7 @@ software development and network security. A guy with a deep interest in technol
 
 <h4 align="center"></h4>
 <p align="center">
-  <img src="https://github.com/lccro/lccro/blob/master/source.gif?raw=true">
+  
   <br>
   •
   <a href="https://www.instagram.com/patricksilva.me/">Instagram</a> •
