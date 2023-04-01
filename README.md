@@ -23,7 +23,9 @@
     </a>
 </div>
 
- <h4 align="left">About me:</h4>
+![](https://komarev.com/ghpvc/?username=patricksilva1&color=green)
+
+<h4 align="left">About me:</h4>
 <p align="left">
 </p>
 A Software Engineer from Brazil. I speak English, Portuguese and a little Spanish.
