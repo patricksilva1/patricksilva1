@@ -1,7 +1,7 @@
 <h2 align="center">Hey 👋, I'm Patrick </h2>
 
 <div>
-    <a target='_blank' href="https:patricksilva.dev">
+    <a target='_blank' href="http:patricksilva.dev">
         <img src="https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white">
     </a>
     <a target='_blank' href="https://www.linkedin.com/in/patrick-loureiro-da-silva-985696191">
