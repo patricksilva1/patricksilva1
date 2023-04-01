@@ -25,6 +25,6 @@
 </div>
 <h4 align="left">About me:</h4>
 
-A Software Engineer from Brazil. I speak English, Portuguese and a little Spanish. Ex-member of CFN - Brazil's Navy, acted with Software Development and Network Security. A guy with a deep interest in technology and how it can benefit us in our lives.
+A Software Engineer from Brazil. I speak English, Portuguese and some basic Spanish. Ex-member of CFN - Brazil's Navy, acted with Software Development and Network Security. A guy with a deep interest in technology and how it can benefit us in our lives.
 
 "Every adversity, every failure, every heartbreak, carries with it the seed of an equal or greater benefit."
