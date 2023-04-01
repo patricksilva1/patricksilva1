@@ -1,4 +1,5 @@
 <h2 align="center">Hey 👋, I'm Patrick </h2>
+
 <div>
     <a target='_blank' href="https:patricksilva.dev">
         <img src="https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white">
@@ -23,11 +24,9 @@
     </a>
 </div>
 
-![](https://komarev.com/ghpvc/?username=patricksilva1&color=green)
-
 <h4 align="left">About me:</h4>
-<p align="left">
-</p>
+<p align="left"></p>
+
 A Software Engineer from Brazil. I speak English, Portuguese and a little Spanish.
 
 Ex-member of **CFN** - Brazil's Navy, acted with
