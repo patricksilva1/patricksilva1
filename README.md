@@ -3,9 +3,9 @@
  <h3 align="left">About me:</h3>
 <p align="left">
 </p>
-I'm 24, a Software Engineer from Brazil. I speak English, Portuguese and a little Spanish. (I'm training French rn)
+A Software Engineer from Brazil. I speak English, Portuguese and a little Spanish.
 
-Ex-member of **CFN (Brazilian Marine Corps)** acted with
+Ex-member of **CFN** - Brazil's Navy, acted with
 Software Development and Network Security. A guy with a deep interest in technology and how it can benefit us in our lives.
 
  <h3 align="left">Languages and Tools:</h3>
@@ -32,13 +32,11 @@ Software Development and Network Security. A guy with a deep interest in technol
   
   <br>
   •
-  <a href="https://www.instagram.com/patricksilva.me/">Instagram</a> •
   <a href="https://www.linkedin.com/in/patrick-loureiro-da-silva-985696191">LinkedIn</a> •
-  <a href="https://wa.me/+5521968160589"> WhatsApp</a> •
+  <a href="mailto:patricksilva.me@gmail.com">patricksilva.me@gmail.com</a> •
+  <a href="https://www.instagram.com/patricksilva.me/">Instagram</a> •
   <a href="https://t.me/patricksilva10">Telegram</a> •
   <a href="https://twitter.com/patricksilvaa98">Twitter</a>
-  •
-  <a href="mailto:patricksilva5160@gmail.com">patricksilva5160@gmail.com</a>
   •
 
 </p>
