@@ -16,9 +16,9 @@
     <a target='_blank' href="mailto:patricksilva.me@gmail.com">
         <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
     </a> 
-    <a target='_blank' href="https://t.me/patricksilva10">
+<!--     <a target='_blank' href="https://t.me/username">
         <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white">
-    </a>
+    </a> -->
     <a target='_blank' href="https://twitter.com/patricksilvaa98">
         <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">
     </a>
