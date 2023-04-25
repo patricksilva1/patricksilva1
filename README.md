@@ -1,5 +1,3 @@
-<h2 align="center">Hey 👋, I'm Patrick </h2>
-
 <div>
     <a target='_blank' href="http:patricksilva.dev">
         <img src="https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white">
@@ -23,8 +21,5 @@
         <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">
     </a>
 </div>
-<h4 align="left">About me:</h4>
 
-A Software Engineer from Brazil. I speak English, Portuguese and some basic Spanish. Ex-member of CFN - Brazil's Navy, acted with Software Development and Network Security. A guy with a deep interest in technology and how it can benefit us in our lives.
-
-"Every adversity, every failure, every heartbreak, carries with it the seed of an equal or greater benefit."
+A developer from Brazil. I speak English, Portuguese and some basic Spanish. Ex-member of CFN - Brazil, acted with Software Development and Network Security.
